@@ -1,0 +1,29 @@
+# Mr Developer (mac, editor, IDEs, etc)
+.mr.developer.cfg
+.project
+.pydevproject
+.vagrant
+.ropeproject
+.tmp
+.sass-cache
+.DS_Store
+.zedstate
+.idea
+.cache/
+/venv*
+*.py[cod]
+*.iml
+
+# Installer logs
+pip-log.txt
+
+# Python Packages
+*.egg
+*.egg-info/
+.eggs/
+.installed.cfg
+.mypy_cache/
+.Python
+__pycache__
+develop-eggs/
+eggs/
